@@ -33,7 +33,9 @@ It contains clinical features and seems designed to predict deaths due to heart 
 ## 📂 Project Structure
 
 data/heart.csv
+
 src/Heart_Failure_Prediction.ipynb
+
 requirements.txt
 
 ---
